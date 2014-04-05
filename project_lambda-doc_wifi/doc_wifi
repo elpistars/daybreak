@@ -1,0 +1,19 @@
+()list access point available for connect
+sudo iwlist wlan0 scan | grep ESSID
+
+()terminal set essid
+sudo iwconfig wlan0  ESSID "free@wifi.id"
+
+()check
+sudo iwconfig
+if essid=free@wifi.id
+else ()terminal set essid
+
+()get dhcp ip
+sudo dhclient -v wlan0
+
+()disconnect interface
+sudo ifconfig wlan0 down
+
+()disconnect from wlan0
+sudo dhclient -r wlan0

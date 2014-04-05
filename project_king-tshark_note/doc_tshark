@@ -1,0 +1,2 @@
+()capture network traffic for 100 packet filter udp
+sudo tshark -ni wlan0 -c 100 -f "udp port 3838" -w /tmp/capture.cap
