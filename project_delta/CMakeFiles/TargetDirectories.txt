@@ -1,6 +1,0 @@
-/home/pi/project_delta/utils/CMakeFiles/backup200414.dir
-/home/pi/project_delta/src/CMakeFiles/raspicam.dir
-/home/pi/project_delta/src/CMakeFiles/raspicam_cv.dir
-/home/pi/project_delta/utils/CMakeFiles/raspicam_cv_test.dir
-/home/pi/project_delta/utils/CMakeFiles/raspicam_test.dir
-/home/pi/project_delta/CMakeFiles/uninstall.dir

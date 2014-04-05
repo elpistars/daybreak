@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/UART.dir/UART.cpp.o  -o UART -rdynamic 

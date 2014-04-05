@@ -1,5 +1,0 @@
-/home/pi/project_charlie/src/CMakeFiles/raspicam.dir
-/home/pi/project_charlie/src/CMakeFiles/raspicam_cv.dir
-/home/pi/project_charlie/utils/CMakeFiles/raspicam_cv_test.dir
-/home/pi/project_charlie/utils/CMakeFiles/raspicam_test.dir
-/home/pi/project_charlie/CMakeFiles/uninstall.dir

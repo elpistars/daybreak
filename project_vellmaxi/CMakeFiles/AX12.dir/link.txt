@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/AX12.dir/AX12.cpp.o  -o AX12 -rdynamic -ldxl -lm 

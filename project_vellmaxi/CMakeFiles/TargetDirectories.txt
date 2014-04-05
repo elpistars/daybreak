@@ -1,1 +1,0 @@
-/home/pi/project_vellmaxi/CMakeFiles/AX12.dir
