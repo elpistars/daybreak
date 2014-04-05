@@ -1,0 +1,4 @@
+/home/pi/project_chernobyl/utils/CMakeFiles/pw.dir
+/home/pi/project_chernobyl/src/CMakeFiles/raspicam.dir
+/home/pi/project_chernobyl/src/CMakeFiles/raspicam_cv.dir
+/home/pi/project_chernobyl/CMakeFiles/uninstall.dir

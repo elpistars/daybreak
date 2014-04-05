@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/I2C/I2C.cpp
+unistd.h
+-
+math.h
+-
+signal.h
+-
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+string.h
+-
+sys/time.h
+-
+L3G.h
+-
+LSM303.h
+-
+/home/pi/I2C/sensor.c
+-
+i2c-dev.h
+-
+
+/home/pi/I2C/sensor.c
+i2c-dev.h
+/home/pi/I2C/i2c-dev.h
+L3G.h
+/home/pi/I2C/L3G.h
+LSM303.h
+/home/pi/I2C/LSM303.h
+

@@ -1,0 +1,1 @@
+/home/pi/project_alfa/CMakeFiles/ocvpi.dir
