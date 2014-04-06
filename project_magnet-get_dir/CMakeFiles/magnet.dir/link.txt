@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/magnet.dir/code.cpp.o  -o magnet -rdynamic -ldxl -lm -lpthread 
