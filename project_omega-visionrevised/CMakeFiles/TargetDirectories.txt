@@ -1,0 +1,4 @@
+/home/pi/project_omega-visionrevised/utils/CMakeFiles/ELP.dir
+/home/pi/project_omega-visionrevised/src/CMakeFiles/raspicam.dir
+/home/pi/project_omega-visionrevised/src/CMakeFiles/raspicam_cv.dir
+/home/pi/project_omega-visionrevised/CMakeFiles/uninstall.dir
